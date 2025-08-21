@@ -1,3 +1,6 @@
+> [!TIP]
+> Since the 0.15.0 update you can use `zig init -m` to get a minimal template!
+
 ## Template Zig
 A barebones zig application template, for zig stable releases.
 
